@@ -1,4 +1,21 @@
 Шпаргалка по GIT
+Области хранения в GIT
+-  Рабочая директория(Working Directory)
+-  Индекс(Staging Area)
+-  Репозиторий(Repository)
+
+Статусы отслеживания файлов
+-	Untracked (Неотслеживаемый)
+-	Unmodified (немодифиц)
+-	Modified (Модифицир)
+-	Staged (подготовленный)
+
+Объекты в GIT
+-	Blob (Файл)
+-	Tree (Папка)
+-	Commit
+-	Annotated Tag
+
 ГЛОБАЛЬНАЯ НАСТРОЙКА
 git config --global --list  Выводит список переменных и их значение
 git config --global user.name "<ИМЯ>"    Задает имя в глобальном файле конфигурации
