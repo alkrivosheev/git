@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "b069e6450685e30e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e9ea40997c90c60",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git шпаргалка.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "649eef98f0226a9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "98bfeaf4ae9f7188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cbd596e7f5c9435",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9d0a07ae57de21c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c64149a54111cb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bacf804f702368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5febc412b3064f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git шпаргалка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9e9ea40997c90c60",
+  "lastOpenFiles": [
+    "Git шпаргалка.md"
+  ]
+}
