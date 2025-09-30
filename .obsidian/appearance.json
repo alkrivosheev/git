@@ -1,5 +1,6 @@
 {
-  "baseFontSize": 12,
+  "baseFontSize": 15,
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "baseFontSizeAction": true
 }

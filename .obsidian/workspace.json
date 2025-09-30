@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Git шпаргалка.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -136,5 +136,7 @@
     }
   },
   "active": "beddf44641bbad48",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Git шпаргалка.md"
+  ]
 }
